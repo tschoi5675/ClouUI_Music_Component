@@ -1,12 +1,7 @@
-# Music-Player
+#ClouUI_Music_Component
 
 [
-![Curseforge Downloads](http://cf.way2muchnoise.eu/music-player.svg)
-![Curseforge Versions](http://cf.way2muchnoise.eu/versions/music-player.svg)
-](https://www.curseforge.com/minecraft/mc-mods/music-player)
-[
-![Discord](https://img.shields.io/discord/297104769649213441?label=Discord)
-](https://discordapp.com/invite/QXbWS36)
+
 
 ### With this mod you can listen to music and manage your playlist without using external programs.
 
