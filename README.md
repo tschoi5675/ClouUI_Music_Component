@@ -3,7 +3,8 @@
 [
 
 
-### With this mod you can listen to music and manage your playlist without using external programs.
+### Part of Clou UI.
+With this mod you can listen to music and manage your playlist without using external programs.
 
 - Download on [curseforge](https://www.curseforge.com/minecraft/mc-mods/music-player).  
 - Find more information on our [website](https://u-team.info/mods/musicplayer).
