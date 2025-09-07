@@ -1,6 +1,4 @@
-#ClouUI_Music_Component
-
-[
+###ClouUI_Music_Component
 
 
 ### Part of Clou UI.
